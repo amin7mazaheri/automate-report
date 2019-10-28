@@ -411,5 +411,3 @@ def log(msg):
 
 if __name__ == '__main__':
     run()
-checkpass.txt
-Displaying abuse_la.txt.
